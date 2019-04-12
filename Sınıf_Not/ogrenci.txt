@@ -1,0 +1,5 @@
+    1       emre 100
+    2    mustafa  80
+    3       onur   5
+    4   memetali  70
+    5      beyto  50
