@@ -1,0 +1,3 @@
+1 mustafa 100
+2 ozi 200
+5 mus 50
